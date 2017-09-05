@@ -2,8 +2,8 @@
 # Promise.js
 
 ```
-	if(!window.Promise){
-    document.writeln('<script src="/js/promise.js"'+'>'+'<'+'/'+'script>');
-  }
+if(!window.Promise){
+  document.writeln('<script src="/js/promise.js"'+'>'+'<'+'/'+'script>');
+}
 
 ```
