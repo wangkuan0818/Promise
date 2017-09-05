@@ -3,7 +3,7 @@
 
 ```
 	if(!window.Promise){
-	  document.writeln('<script src="/js/promise.js"'+'>'+'<'+'/'+'script>');
-    }
+    document.writeln('<script src="/js/promise.js"'+'>'+'<'+'/'+'script>');
+  }
 
 ```
